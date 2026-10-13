@@ -1,1 +1,14 @@
+* Welcome / Hero Section */
 
+main {
+    background-color: #F2EFE8;
+}
+
+main h1 {
+    color: #414B4C;
+}
+
+main p {
+    color: #59635D;
+    line-height: 1.8;
+}
